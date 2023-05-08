@@ -40,7 +40,7 @@ composer install
 ```
 symfony serve -d
 ```
-- Open [http://127.0.0.1:8000/] (http://127.0.0.1:8000/) in your browser.
+- Open [127.0.0.1:8000] (http://127.0.0.1:8000/) in your browser.
 
 ## Credits
 
