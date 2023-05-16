@@ -46,11 +46,12 @@ symfony serve -d
 
 - [DeepL API](https://www.deepl.com/translator)
 
+## Screenshots
+
+![desktop](https://github.com/Kapshtak/translator/blob/main/screenshots/desktop.png)
+
 ## Author
 
 - LinkedIn - [Arseniiy Kapshtyk](https://www.linkedin.com/in/kapshtyk/)
 - Github - [@kapshtak](https://github.com/Kapshtak)
 
-## Screenshots
-
-![desktop](https://github.com/Kapshtak/translator/blob/main/screenshots/desktop.png)
